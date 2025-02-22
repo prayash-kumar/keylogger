@@ -5,8 +5,8 @@ import threading
 # -------------------------------
 # CONFIGURATION
 # -------------------------------
-TELEGRAM_BOT_TOKEN = "7913846179:AAGrBdQov99lgTC2GcLhAwV5e-24H-K1u0s"  # @BotFather se liya token
-CHAT_ID = "6311476449"              # getUpdates se liya chat id
+TELEGRAM_BOT_TOKEN = "Enter You Token"  # @BotFather se liya token
+CHAT_ID = "Enter Your Chat ID"              # getUpdates se liya chat id
 SEND_INTERVAL = 60                    # Har 60 seconds pe logs bheje
 
 # -------------------------------
